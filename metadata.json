@@ -1,0 +1,6 @@
+{
+  "name": "CompanyOS — Central de Comando de TI e NOC",
+  "description": "Central visual de monitoramento e comando de infraestrutura de tecnologia em tempo real: NOC, Datacenter, Kubernetes, Redes, Bancos de Dados, DevOps, SOC e Terminal CLI com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
